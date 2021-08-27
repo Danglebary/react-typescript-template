@@ -2,7 +2,7 @@
     "name": "react-typescript-template",
     "version": "1.0.0",
     "description": "A simple starting point for any react-typescript project, without all the bloat of CRA",
-    "main": "index.js",
+    "main": "src/index.tsx",
     "author": "Danglebary",
     "license": "MIT",
     "scripts": {
